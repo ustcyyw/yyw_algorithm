@@ -114,7 +114,7 @@ public ListNode mergeTwoLists2(ListNode l1, ListNode l2) {
 * 如果链表中其一为`null`直接返回另外一个链表。
 
 * 以头结点较小的链表为基础链表，逐渐将另外一条链表的元素一个一个插入进来。以`first`为基础链表，每一次都需要将`first`的下一个结点值与`second`的当前结点的值进行比较。
-* 将`first`指向较小结点后，`first`指向下一个结点，实现链表的不断生长。直到`second != null`条件成立，次数`second`中所有元素插入`first`中。
+* 插入结点后或者当前不需要插入结点，`first`均指向下一个结点，实现链表的不断生长。直到`second != null`条件成立，次数`second`中所有元素插入`first`中。
 * 链表有需要特别注意的地方：链表尾的处理。当`first`没有下一个元素时，（i.e.`first == null`)直接指向另一条链表的当前结点即可。
 
 图示：
