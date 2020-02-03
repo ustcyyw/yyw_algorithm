@@ -15,9 +15,9 @@
 
 #### 	[easy](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy)
 
-###### 			[LinkedList（链表）](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/LinkedList)
+ 			[LinkedList（链表）](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/LinkedList)
 
-###### 			[other](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/other)
+ 			[other](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/other)
 
 #### 	[medium]()
 
