@@ -13,15 +13,15 @@
 
 ## 目录
 
-#### 	[easy](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy)
+#### 	[1.easy](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy)
 
- 			[LinkedList（链表）](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/LinkedList)
+1.1[LinkedList（链表）](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/LinkedList)
 
- 			[other](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/other)
+1.2[other](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/other)
 
-#### 	[medium]()
+#### 	[2.medium]()
 
-#### 	[hard]()
+#### 	[3.hard]()
 
 ---
 
