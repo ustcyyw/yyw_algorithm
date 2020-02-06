@@ -69,7 +69,7 @@ public ListNode removeElements2(ListNode head, int val) {
 * 可以类似[删除重复元素](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/LinkedList/deleteDuplicates.md)的做法，链接中有图解。使用两个指针，`cursor`定位到指定值的结点的最后一个，防止单个单个结点删除时，连续指定值结点情况下的漏删。
 * 这里特别要注意一种情况，如果要删除的元素是开头一个或几个。要处理这种情况，需要先把开头的指定值的结点删除。这里只需要一位一位移动直到开头没有要删除的结点为止。
 * 经过上一个步骤，要判断当前指针是否为空。
-* 只遍历一次链表，时间复杂度$O(n)$，空间复杂度只是用两个辅助指针结点$O(n)$。
+* 只遍历一次链表，时间复杂度$O(n)$，空间复杂度只是用两个辅助指针结点$O(1)$。
 
 代码解释：
 
