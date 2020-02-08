@@ -89,9 +89,12 @@ public ListNode[] splitListToParts(ListNode root, int k) {
 * 注意：如果`quotient==0`，除了分一个结点的子链表，其余都为`null`，不需要分配。
 * 算法中维持一个`ListNode[]`，其长度为`k`，所以空间复杂度$O(k)$。第一遍遍历列表得到链表长，第二次遍历链表即能完成分割，时间复杂度为$O(n)$。
 
-图示：
+图示：![splitListToParts.jpg](https://github.com/ustcyyw/yyw_algorithm/blob/master/medium/LinkedList/splitListToParts.jpg?raw=true)
 
 代码分析：
+
+* 7~9：结点个数计算。
+* 13~20行：处理前`remainder`组，使其分得`quotient+1`个结点；23-30行，剩余分组的处理。
 
 运行结果：
 
