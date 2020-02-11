@@ -81,7 +81,7 @@ public class MyStack225 {
 
 图示：用图示例 push(1),push(2),push(3),pop(),push(4),peek()。
 
-
+![MyStack225.2.jpg](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/StackAndQueue/MyStack225.2.jpg?raw=true)
 
 代码解释：
 
@@ -131,5 +131,5 @@ class MyStack {
 
 图示：用图示例 push(1),push(2),push(3),pop()
 
-
+![MyStack225.1.jpg](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/StackAndQueue/MyStack225.1.jpg?raw=true)
 
