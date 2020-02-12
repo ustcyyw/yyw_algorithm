@@ -17,7 +17,9 @@
 
 1.1[LinkedList（链表）](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/LinkedList)
 
-1.2[other](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/other)
+1.2[StackAndQueue](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/StackAndQueue)
+
+1.3[other](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/other)
 
 #### 	[2.medium]()
 
@@ -34,3 +36,8 @@
 * 感谢 leetcode 提供的题目及标答
 * 感谢免费软件 processon
 * 感谢给我 star 的小伙伴！（我在想pitch）:smile:
+
+## 欢迎交流
+
+* 微信Y154578009 /QQ154578009 ❤️​
+* Email：yang0@mail.ustc.edu.cn
