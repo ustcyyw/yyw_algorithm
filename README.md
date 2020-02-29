@@ -19,11 +19,23 @@
 
 1.2[StackAndQueue](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/StackAndQueue)
 
-1.3[other](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/other)
+1.3[ArrayAndMatrix](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/ArrayAndMatrix)
+
+1.4[Tree](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/Tree)
+
+1.5[other](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/other)
 
 #### 	[2.medium]()
 
 2.1[LinkedList（链表）](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium/LinkedList)
+
+2.2[StackAndQueue](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium/StackAndQueue)
+
+2.3[ArrayAndMatrix](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium/ArrayAndMatrix)
+
+2.4[Tree](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium/Tree)
+
+2.5[BackTracking](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium/BackTracking)
 
 #### 	[3.hard]()
 
