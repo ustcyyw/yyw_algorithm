@@ -5,7 +5,7 @@ package easy.TwoPoint;
  * @Author : yyw@ustc
  * @E-mail : yang0@mail.ustc.edu.cn
  * @Github : https://github.com/ustcyyw
- * @desc : 已总结
+ * @desc :
  */
 
 /**
