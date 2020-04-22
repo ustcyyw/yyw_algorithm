@@ -9,6 +9,8 @@
 
 ​	还有LC周赛的我做出来的题解嗷！😋
 
+​	剑指offer的题解也开始更新啦，官方是cpp的题解，我进行一波java的题解更新！😎
+
 ​	为什么要做总结？因为这样可以让自己思路更清晰，让自己理解更深一点（仓库的题解md文件框架都是固定格式，所以做了一个方便生成题解框架的小工具[点击here](https://github.com/ustcyyw/markdown_tool)）
 
 ​	希望自己（和看到仓库的有缘人）每天都能坚持:muscle:。加油！千里之行始于足下。
@@ -24,6 +26,7 @@
     * [217.存在重复元素](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/ArrayAndMatrix/containsDuplicate.md)
     * [1013. 将数组分成和相等的三个部分](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/ArrayAndMatrix/canThreePartsEqualSum.md)
     *  [1103.分糖果](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/ArrayAndMatrix/distributeCandies.md)
+
 * 1.2[BinarySearch](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/BinarySearch)
 
 * 1.3[BitOperation](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/BitOperation)
@@ -71,6 +74,12 @@
 #### 	[3.hard]()
 
 #### [4.WeekContest](https://github.com/ustcyyw/yyw_algorithm/tree/master/WeekContest)
+
+#### 5.[SwordToOffer](https://github.com/ustcyyw/yyw_algorithm/tree/master/SwordToOffer)
+
+* [03. 数组中重复的数字](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/findRepeatNumber.md)
+* [10- I. 斐波那契数列](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/fib.md)
+* [面试题68 - II. 二叉树的最近公共祖先](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/lowestCommonAncestor2.md)
 
 ---
 
