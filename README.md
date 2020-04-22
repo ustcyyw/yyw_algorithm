@@ -9,7 +9,7 @@
 
 ​	还有LC周赛的我做出来的题解嗷！😋
 
-​	剑指offer的题解也开始更新啦，官方是cpp的题解，我进行一波java的题解更新！😎
+​	《剑指offer》的题解也开始更新啦，官方是cpp的题解，我进行一波**java题解**更新！😎
 
 ​	为什么要做总结？因为这样可以让自己思路更清晰，让自己理解更深一点（仓库的题解md文件框架都是固定格式，所以做了一个方便生成题解框架的小工具[点击here](https://github.com/ustcyyw/markdown_tool)）
 
@@ -75,11 +75,11 @@
 
 #### [4.WeekContest](https://github.com/ustcyyw/yyw_algorithm/tree/master/WeekContest)
 
-#### 5.[SwordToOffer](https://github.com/ustcyyw/yyw_algorithm/tree/master/SwordToOffer)
+#### [5.SwordToOffer](https://github.com/ustcyyw/yyw_algorithm/tree/master/SwordToOffer)
 
 * [03. 数组中重复的数字](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/findRepeatNumber.md)
 * [10- I. 斐波那契数列](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/fib.md)
-* [面试题68 - II. 二叉树的最近公共祖先](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/lowestCommonAncestor2.md)
+* [68 - II. 二叉树的最近公共祖先](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/lowestCommonAncestor2.md)
 
 ---
 
@@ -87,7 +87,6 @@
 ## 感谢
 
 * 感谢 leetcode 提供的题目及标答
-* 感谢免费软件 processon
 * 感谢给我 star 的小伙伴！（我在想pitch）:smile:
 
 ## 欢迎交流
