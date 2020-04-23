@@ -24,9 +24,12 @@
 #### 	[1.easy](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy)
 * 1.1[ArrayAndMatrix](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/ArrayAndMatrix)
     * [217.存在重复元素](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/ArrayAndMatrix/containsDuplicate.md)
+    * [485.最大连续1的个数](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/ArrayAndMatrix/findMaxConsecutiveOnes485.md)
+    * [594. 最长和谐子序列](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/ArrayAndMatrix/findLHS.md)
+* [645. 错误的集合](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/ArrayAndMatrix/findErrorNums645.md)
     * [1013. 将数组分成和相等的三个部分](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/ArrayAndMatrix/canThreePartsEqualSum.md)
     *  [1103.分糖果](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/ArrayAndMatrix/distributeCandies.md)
-
+    
 * 1.2[BinarySearch](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/BinarySearch)
 
 * 1.3[BitOperation](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/BitOperation)
@@ -79,6 +82,7 @@
 
 * [03. 数组中重复的数字](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/findRepeatNumber.md)
 * [10- I. 斐波那契数列](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/fib.md)
+* [68 - I. 二叉搜索树的最近公共祖先](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/lowestCommonAncestor.md)
 * [68 - II. 二叉树的最近公共祖先](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/lowestCommonAncestor2.md)
 
 ---
