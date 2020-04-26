@@ -23,7 +23,9 @@
 
 #### 	[1.easy](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy)
 * 1.1[ArrayAndMatrix](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/ArrayAndMatrix)
+    * [26. 删除排序数组中的重复项](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/ArrayAndMatrix/removeDuplicates.md)
     * [88. 合并两个有序数组](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/ArrayAndMatrix/merge88.md) 
+    * [189. 旋转数组](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/ArrayAndMatrix/rotate.md)
     * [217.存在重复元素](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/ArrayAndMatrix/containsDuplicate.md)
     * [283.移动零](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/ArrayAndMatrix/moveZeroes.md)
     * [485.最大连续1的个数](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/ArrayAndMatrix/findMaxConsecutiveOnes485.md)
@@ -32,8 +34,9 @@
     * [645. 错误的集合](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/ArrayAndMatrix/findErrorNums645.md)
     * [697. 数组的度](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/ArrayAndMatrix/findShortestSubArray.md)
     * [766. 托普利茨矩阵](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/ArrayAndMatrix/isToeplitzMatrix.md)
+    * [892. 三维形体的表面积](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/ArrayAndMatrix/surfaceArea.md)
     * [914. 卡牌分组](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/ArrayAndMatrix/hasGroupsSizeX.md)
-    * [1013. 将数组分成和相等的三个部分](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/ArrayAndMatrix/canThreePartsEqualSum.md)
+* [1013. 将数组分成和相等的三个部分](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/ArrayAndMatrix/canThreePartsEqualSum.md)
     * [1103.分糖果](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/ArrayAndMatrix/distributeCandies.md)
     
 * 1.2[BinarySearch](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/BinarySearch)
