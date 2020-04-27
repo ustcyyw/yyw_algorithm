@@ -36,10 +36,13 @@
     * [766. 托普利茨矩阵](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/ArrayAndMatrix/isToeplitzMatrix.md)
     * [892. 三维形体的表面积](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/ArrayAndMatrix/surfaceArea.md)
     * [914. 卡牌分组](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/ArrayAndMatrix/hasGroupsSizeX.md)
-* [1013. 将数组分成和相等的三个部分](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/ArrayAndMatrix/canThreePartsEqualSum.md)
+    * [1013. 将数组分成和相等的三个部分](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/ArrayAndMatrix/canThreePartsEqualSum.md)
     * [1103.分糖果](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/ArrayAndMatrix/distributeCandies.md)
-    
 * 1.2[BinarySearch](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/BinarySearch)
+    * [35. 搜索插入位置](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/BinarySearch/searchInsert.md)
+    * [69. x 的平方根](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/BinarySearch/mySqrt.md)
+    * [744. 寻找比目标字母大的最小字母](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/BinarySearch/nextGreatestLetter.md)
+    * [1385. 两个数组间的距离值](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/BinarySearch/findTheDistanceValue.md)
 
 * 1.3[BitOperation](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/BitOperation)
 
@@ -91,6 +94,7 @@
 
 * [03. 数组中重复的数字](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/findRepeatNumber.md)
 * [10- I. 斐波那契数列](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/fib.md)
+* [12. 矩阵中的路径](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/exist.md)
 * [68 - I. 二叉搜索树的最近公共祖先](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/lowestCommonAncestor.md)
 * [68 - II. 二叉树的最近公共祖先](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/lowestCommonAncestor2.md)
 
