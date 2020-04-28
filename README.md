@@ -21,8 +21,8 @@
 
 ## 目录
 
-#### 	[1.easy](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy)
-* 1.1[ArrayAndMatrix](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/ArrayAndMatrix)
+### 	[1.easy](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy)
+* #### 1.1[ArrayAndMatrix](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/ArrayAndMatrix)
     * [26. 删除排序数组中的重复项](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/ArrayAndMatrix/removeDuplicates.md)
     * [88. 合并两个有序数组](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/ArrayAndMatrix/merge88.md) 
     * [189. 旋转数组](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/ArrayAndMatrix/rotate.md)
@@ -38,53 +38,46 @@
     * [914. 卡牌分组](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/ArrayAndMatrix/hasGroupsSizeX.md)
     * [1013. 将数组分成和相等的三个部分](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/ArrayAndMatrix/canThreePartsEqualSum.md)
     * [1103.分糖果](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/ArrayAndMatrix/distributeCandies.md)
-* 1.2[BinarySearch](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/BinarySearch)
+* #### 1.2[BinarySearch](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/BinarySearch)
+    
     * [35. 搜索插入位置](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/BinarySearch/searchInsert.md)
     * [69. x 的平方根](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/BinarySearch/mySqrt.md)
     * [744. 寻找比目标字母大的最小字母](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/BinarySearch/nextGreatestLetter.md)
     * [1385. 两个数组间的距离值](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/BinarySearch/findTheDistanceValue.md)
-
-* 1.3[BitOperation](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/BitOperation)
-
-* 1.4[DP](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/DP)
-
-* 1.5[LinkedList](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/LinkedList)
-
-* 1.6[Sort](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/Sort)
-
-* 1.7[StackAndQueue](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/StackAndQueue)
-
-* 1.8[String](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/String)
-
-* 1.9[Tree](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/Tree)
-
-* 1.10[TwoPoint](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/TwoPoint)
-
-* 1.11[other](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/other)
+* #### 1.3[BitOperation](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/BitOperation)
+    
+    * [136. 只出现一次的数字](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/BitOperation/singleNumber.md)
+    * [190. 颠倒二进制位](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/BitOperation/reverseBits.md)
+    * [191. 位1的个数](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/BitOperation/hammingWeight.md)
+    * [231. 2的幂](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/BitOperation/isPowerOfTwo.md)
+    * [268. 缺失数字](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/BitOperation/missingNumber.md)
+    * [342. 4的幂](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/BitOperation/isPowerOfFour.md)
+    * [371. 两整数之和](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/BitOperation/getSum.md)
+    * [461. 汉明距离](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/BitOperation/hammingDistance.md)
+    * [476. 数字的补数](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/BitOperation/findComplement.md)
+    * [693. 交替位二进制数](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/BitOperation/hasAlternatingBits.md)
+* #### 1.4[DP](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/DP)
+* #### 1.5[LinkedList](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/LinkedList)
+* #### 1.6[Sort](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/Sort)
+* #### 1.7[StackAndQueue](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/StackAndQueue)
+* #### 1.8[String](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/String)
+* #### 1.9[Tree](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/Tree)
+* #### 1.10[TwoPoint](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/TwoPoint)
+* #### 1.11[other](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/other)
 
 #### 	[2.medium](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium)
 
-* 2.1[ArrayAndMatrix](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium/ArrayAndMatrix)
-
-* 2.2[BFSorDFS](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium/BFSorDFS)
-
-* 2.3[BackTracking](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium/BackTracking)
-
-* 2.4[BinarySearch](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium/BinarySearch)
-
-* 2.5[BitOperation](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium/BitOperation)
-
-* 2.6[DP](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium/DP)
-
-* 2.7[LinkedList](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium/LinkedList)
-
-* 2.8[Sort](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium/Sort)
-
-* 2.9[StackAndQueue](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium/StackAndQueue)
-
-* 2.10[String](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium/String)
-
-* 2.11[Tree](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium/Tree)
+* #### 2.1[ArrayAndMatrix](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium/ArrayAndMatrix)
+* #### 2.2[BFSorDFS](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium/BFSorDFS)
+* #### 2.3[BackTracking](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium/BackTracking)
+* #### 2.4[BinarySearch](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium/BinarySearch)
+* #### 2.5[BitOperation](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium/BitOperation)
+* #### 2.6[DP](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium/DP)
+* #### 2.7[LinkedList](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium/LinkedList)
+* #### 2.8[Sort](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium/Sort)
+* #### 2.9[StackAndQueue](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium/StackAndQueue)
+* #### 2.10[String](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium/String)
+* #### 2.11[Tree](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium/Tree)
 
 #### 	[3.hard]()
 
