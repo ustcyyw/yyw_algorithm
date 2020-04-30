@@ -60,6 +60,9 @@
     * [198.打家劫舍I](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/DP/rob198.md)
     * [面试题 17.16. 按摩师](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/DP/massage.md)
 * #### 1.5[LinkedList](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/LinkedList)
+    * [83. 删除排序链表中的重复元素](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/LinkedList/deleteDuplicates.md)
+    * [160. 相交链表](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/LinkedList/getIntersectionNode.md)
+    * [237. 删除链表中的节点](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/LinkedList/deleteNode.md)
 * #### 1.6[Sort](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/Sort)
 * #### 1.7[StackAndQueue](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/StackAndQueue)
 * #### 1.8[String](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/String)
@@ -67,7 +70,7 @@
 * #### 1.10[TwoPoint](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/TwoPoint)
 * #### 1.11[other](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/other)
 
-#### 	[2.medium](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium)
+### 	[2.medium](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium)
 
 * #### 2.1[ArrayAndMatrix](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium/ArrayAndMatrix)
 * #### 2.2[BFSorDFS](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium/BFSorDFS)
@@ -81,11 +84,11 @@
 * #### 2.10[String](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium/String)
 * #### 2.11[Tree](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium/Tree)
 
-#### 	[3.hard]()
+### 	[3.hard]()
 
-#### [4.WeekContest](https://github.com/ustcyyw/yyw_algorithm/tree/master/WeekContest)
+### [4.WeekContest](https://github.com/ustcyyw/yyw_algorithm/tree/master/WeekContest)
 
-#### [5.SwordToOffer](https://github.com/ustcyyw/yyw_algorithm/tree/master/SwordToOffer)
+### [5.SwordToOffer](https://github.com/ustcyyw/yyw_algorithm/tree/master/SwordToOffer)
 
 * [03. 数组中重复的数字](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/findRepeatNumber.md)
 * [10- I. 斐波那契数列](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/fib.md)
