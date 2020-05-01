@@ -13,6 +13,8 @@
 进阶：
 你能否用 O(n) 时间复杂度和 O(1) 空间复杂度解决此题？
 
+[原题链接](https://leetcode-cn.com/problems/palindrome-linked-list/)
+
 ---
 
 ### 三种解法
@@ -135,7 +137,7 @@ public boolean isPalindrome3(ListNode head) {
 思路分析：
 
 * 回文链表的性质：它关于中垂线是轴对称的，也就是说只要翻转其中一半，则两条"半链表"值出现的顺序是一致的。方法二中将后半链表进行了翻转，额外维持一条新的半链表。官方标答的思路就是，在找中间结点的过程中直接将前半个链表进行翻转。
-* 需要注意在链表节点数为奇数时，也就是当遍历结束后`fast != null`的情况，要将使得`slow`结点跳过中间结点，否则两条半链表不一样长。
+* 需要注意在链表节点数为奇数时，也就是当遍历结束后`fast != null`的情况，要将`slow`结点跳过中间结点，否则两条半链表不一样长。
 * 如何在查找中间结点是翻转链表，看下面图示。时间复杂度$O(n)$，空间复杂度$O(1)$
 
 图示：
@@ -146,3 +148,9 @@ public boolean isPalindrome3(ListNode head) {
 
 * 图示的过程就是 8~14行的循环。
 * 15行`if (fast != null) slow = slow.next;`用于处理链表节点数为奇数的情况。
+
+----
+
+* 更多LeetCode题解请看[题解仓库](https://github.com/ustcyyw/yyw_algorithm)
+* 题解框架由小工具自动生产，参考[工具项目](https://github.com/ustcyyw/markdown_tool)
+* [我的github](https://github.com/ustcyyw)还有别的小项目也很好玩。卑微求个~小星星蟹蟹
