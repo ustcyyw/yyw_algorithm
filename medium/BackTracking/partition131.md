@@ -18,7 +18,7 @@
 ##### 1.回溯
 
 ```java
-	private List<List<String>> res;
+private List<List<String>> res;
     private char[] chars;
     private int n;
     private boolean[][] isP;
@@ -68,7 +68,7 @@
 思路分析：
 
 * 本题要求的结果，是一个子字符串的集合。集合，组合问题一般都会想到回溯。
-* 加入我们现在要选择第一个拆分的出的子字符串，这个字符串的长度可能为1，可能为2...可能为n。如果第一个字符串的长度为1，那么后续要在字串`[1, n - 1]`上进行拆分；如果第一个字符串的长度为2，那么后续要在子串`[2, n - 1]`上进行拆分...知道所有字符都被拆分。这就是问题的递归结构。
+* 假如我们现在要选择第一个拆分的出的子字符串，这个字符串的长度可能为1，可能为2...可能为n。如果第一个字符串的长度为1，那么后续要在字串`[1, n - 1]`上进行拆分；如果第一个字符串的长度为2，那么后续要在子串`[2, n - 1]`上进行拆分...知道所有字符都被拆分。这就是问题的递归结构。
 * 递归函数`private void backTrack2(Stack<String> stack, int curIndex)`，第一个参数是用于存放拆分出来的子字符串的，很方便在回溯的时候，将当前字符串从结果集中弹出。第二个参数表示，现在拆分的字符串的起始索引。
     * 当`curIndex == n`时，已经没有可以拆分的字符，所以要将结果放入`res`中，然后返回。
     * 递归的时候，下一个子字符串的起始位置为`curIndex`，结束位置的索引用`i`表示，可取范围`[curIndex, n - 1]`。在递归之前首先要保证`[curIndex, i]`这个子串是回文子串，否则结果是不正确的。
@@ -83,7 +83,7 @@
 ##### 2.回溯 但是很麻烦（略）
 
 ```java
-	private List<List<String>> res;
+private List<List<String>> res;
     private char[] chars;
     public List<List<String>> partition(String s) {
         res = new ArrayList<>();
@@ -135,3 +135,9 @@
 
 * 执行用时 :17 ms, 在所有 Java 提交中击败了6.46%的用户
 * 内存消耗 :42.7 MB, 在所有 Java 提交中击败了6.22%的用户
+
+----
+
+* 更多LeetCode题解请看[题解仓库](https://github.com/ustcyyw/yyw_algorithm)
+* 题解框架由小工具自动生产，参考[工具项目](https://github.com/ustcyyw/markdown_tool)
+* [我的github](https://github.com/ustcyyw)还有别的小项目也很好玩。卑微求个~小星星蟹蟹
