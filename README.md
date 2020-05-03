@@ -73,10 +73,19 @@
     * [876. 链表的中间结点](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/LinkedList/middleNode.md)
     
 * #### 1.6[Sort](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/Sort)
+    * [169. 多数元素](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/Sort/majorityElement.md)
+    * [349. 两个数组的交集](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/Sort/intersection349.md)
+    * [350. 两个数组的交集 II](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/Sort/intersect350.md)
+    * [面试题40. 最小的k个数](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/Sort/getLeastNumbers.md)
+
 * #### 1.7[StackAndQueue](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/StackAndQueue)
+
 * #### 1.8[String](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/String)
+
 * #### 1.9[Tree](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/Tree)
+
 * #### 1.10[TwoPoint](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/TwoPoint)
+
 * #### 1.11[other](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/other)
 
 ### 	[2.medium](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium)
@@ -106,7 +115,6 @@
 * [68 - II. 二叉树的最近公共祖先](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/lowestCommonAncestor2.md)
 
 ---
-
 
 ## 感谢
 
