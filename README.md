@@ -79,6 +79,10 @@
     * [面试题40. 最小的k个数](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/Sort/getLeastNumbers.md)
 
 * #### 1.7[StackAndQueue](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/StackAndQueue)
+    * [20. 有效的括号](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/StackAndQueue/isValid20.md)
+    * [155. 最小栈](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/StackAndQueue/MinStack155.md)
+    * [225. 用队列实现栈](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/StackAndQueue/MyStack225.md)
+    * [232. 用栈实现队列](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/StackAndQueue/MyQueue232.md)
 
 * #### 1.8[String](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/String)
 
