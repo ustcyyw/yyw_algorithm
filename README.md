@@ -115,6 +115,9 @@
 * [03. 数组中重复的数字](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/findRepeatNumber.md)
 * [10- I. 斐波那契数列](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/fib.md)
 * [12. 矩阵中的路径](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/exist.md)
+* [43. 1～n整数中1出现的次数](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/countDigitOne.md)
+* [50. 第一个只出现一次的字符](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/firstUniqChar.md)
+* [52. 两个链表的第一个公共节点](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/getIntersectionNode.md)
 * [68 - I. 二叉搜索树的最近公共祖先](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/lowestCommonAncestor.md)
 * [68 - II. 二叉树的最近公共祖先](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/lowestCommonAncestor2.md)
 
