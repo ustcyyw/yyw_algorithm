@@ -122,6 +122,8 @@
 * [44. 数字序列中某一位的数字](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/findNthDigit.md)
 * [50. 第一个只出现一次的字符](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/firstUniqChar.md)
 * [52. 两个链表的第一个公共节点](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/getIntersectionNode.md)
+* [58 - II. 左旋转字符串](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/reverseLeftWords.md)
+* [61. 扑克牌中的顺子](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/isStraight.md)
 * [68 - I. 二叉搜索树的最近公共祖先](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/lowestCommonAncestor.md)
 * [68 - II. 二叉树的最近公共祖先](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/lowestCommonAncestor2.md)
 
