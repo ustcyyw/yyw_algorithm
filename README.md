@@ -84,8 +84,18 @@
     * [225. 用队列实现栈](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/StackAndQueue/MyStack225.md)
     * [232. 用栈实现队列](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/StackAndQueue/MyQueue232.md)
 
-* #### 1.8[String](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/String)
-
+* #### 1.8[String](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/String) 
+    * [9. 回文数](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/String/isPalindrome.md)
+    * [58. 最后一个单词的长度](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/String/lengthOfLastWord.md)
+    * [205. 同构字符串](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/String/isIsomorphic.md)
+    * [242. 有效的字母异位词](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/String/isAnagram.md)
+    * [383. 赎金信](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/String/canConstruct.md)
+    * [409. 最长回文串](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/String/longestPalindrome.md)
+    * [696. 计数二进制子串](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/String/countBinarySubstrings.md)
+    * [1071. 字符串的最大公因子](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/String/gcdOfStrings.md)
+    * [1160. 拼写单词](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/String/countCharacters.md)
+    * [1370. 上升下降字符串](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/String/sortString.md)
+    
 * #### 1.9[Tree](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/Tree)
 
 * #### 1.10[TwoPoint](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/TwoPoint)
