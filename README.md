@@ -121,6 +121,9 @@
     * [687. 最长同值路径](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/Tree/longestUnivaluePath.md)
 
 * #### 1.10[TwoPoint](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/TwoPoint)
+    * [202. 快乐数](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/TwoPoint/isHappy.md)
+    * [345. 反转字符串中的元音字母](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/TwoPoint/reverseVowels.md)
+    * [680. 验证回文字符串 Ⅱ](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/TwoPoint/validPalindrome.md)
 
 * #### 1.11[other](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/other)
 
