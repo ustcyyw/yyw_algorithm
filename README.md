@@ -121,10 +121,11 @@
     * [687. 最长同值路径](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/Tree/longestUnivaluePath.md)
 
 * #### 1.10[TwoPoint](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/TwoPoint)
+    * [167.两数之和-输入有序数组](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/TwoPoint/twoSum167.md)
     * [202. 快乐数](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/TwoPoint/isHappy.md)
     * [345. 反转字符串中的元音字母](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/TwoPoint/reverseVowels.md)
     * [680. 验证回文字符串 Ⅱ](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/TwoPoint/validPalindrome.md)
-
+    * [面试题57 - II. 和为s的连续正数序列](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/TwoPoint/findContinuousSequence.md)
 * #### 1.11[other](https://github.com/ustcyyw/yyw_algorithm/tree/master/easy/other)
 
 ### 	[2.medium](https://github.com/ustcyyw/yyw_algorithm/tree/master/medium)
@@ -157,6 +158,7 @@
 * [44. 数字序列中某一位的数字](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/findNthDigit.md)
 * [50. 第一个只出现一次的字符](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/firstUniqChar.md)
 * [52. 两个链表的第一个公共节点](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/getIntersectionNode.md)
+* [57 - II. 和为s的连续正数序列](https://github.com/ustcyyw/yyw_algorithm/blob/master/easy/TwoPoint/findContinuousSequence.md)
 * [58 - II. 左旋转字符串](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/reverseLeftWords.md)
 * [61. 扑克牌中的顺子](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/isStraight.md)
 * [68 - I. 二叉搜索树的最近公共祖先](https://github.com/ustcyyw/yyw_algorithm/blob/master/SwordToOffer/lowestCommonAncestor.md)
